@@ -1,3 +1,4 @@
+# naming this file conftest.py, this will make fixtures global
 import pytest 
 import source.shapes as shapes
 
